@@ -5,3 +5,4 @@ export { rankCheckoutCachedBreakdown } from './features/checkout-rank-cached-bre
 export { indexDeliveryCachedBreakdown } from './features/delivery-index-cached-breakdown';
 export { deriveFormsCachedBreakdown } from './features/forms-derive-cached-breakdown';
 export { FormsDeriveCachedBreakdownCard } from './components/FormsDeriveCachedBreakdownCard';
+export { normalizeFulfillmentCachedBreakdown } from './features/fulfillment-normalize-cached-breakdown';
