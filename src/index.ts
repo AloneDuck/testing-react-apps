@@ -6,3 +6,4 @@ export { indexDeliveryCachedBreakdown } from './features/delivery-index-cached-b
 export { deriveFormsCachedBreakdown } from './features/forms-derive-cached-breakdown';
 export { FormsDeriveCachedBreakdownCard } from './components/FormsDeriveCachedBreakdownCard';
 export { normalizeFulfillmentCachedBreakdown } from './features/fulfillment-normalize-cached-breakdown';
+export { prioritizeNavigationCachedBreakdown } from './features/navigation-prioritize-cached-breakdown';
