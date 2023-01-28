@@ -7,3 +7,5 @@ export { deriveFormsCachedBreakdown } from './features/forms-derive-cached-break
 export { FormsDeriveCachedBreakdownCard } from './components/FormsDeriveCachedBreakdownCard';
 export { normalizeFulfillmentCachedBreakdown } from './features/fulfillment-normalize-cached-breakdown';
 export { prioritizeNavigationCachedBreakdown } from './features/navigation-prioritize-cached-breakdown';
+export { groupPricingCachedBreakdown } from './features/pricing-group-cached-breakdown';
+export { PricingGroupCachedBreakdownCard } from './components/PricingGroupCachedBreakdownCard';
