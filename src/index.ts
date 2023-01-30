@@ -9,3 +9,4 @@ export { normalizeFulfillmentCachedBreakdown } from './features/fulfillment-norm
 export { prioritizeNavigationCachedBreakdown } from './features/navigation-prioritize-cached-breakdown';
 export { groupPricingCachedBreakdown } from './features/pricing-group-cached-breakdown';
 export { PricingGroupCachedBreakdownCard } from './components/PricingGroupCachedBreakdownCard';
+export { measureRoutingCachedBreakdown } from './features/routing-measure-cached-breakdown';
