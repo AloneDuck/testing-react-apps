@@ -10,3 +10,4 @@ export { prioritizeNavigationCachedBreakdown } from './features/navigation-prior
 export { groupPricingCachedBreakdown } from './features/pricing-group-cached-breakdown';
 export { PricingGroupCachedBreakdownCard } from './components/PricingGroupCachedBreakdownCard';
 export { measureRoutingCachedBreakdown } from './features/routing-measure-cached-breakdown';
+export { deriveSessionsCachedBreakdown } from './features/sessions-derive-cached-breakdown';
