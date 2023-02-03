@@ -11,3 +11,4 @@ export { groupPricingCachedBreakdown } from './features/pricing-group-cached-bre
 export { PricingGroupCachedBreakdownCard } from './components/PricingGroupCachedBreakdownCard';
 export { measureRoutingCachedBreakdown } from './features/routing-measure-cached-breakdown';
 export { deriveSessionsCachedBreakdown } from './features/sessions-derive-cached-breakdown';
+export { summarizeShipmentsCachedBreakdown } from './features/shipments-summarize-cached-breakdown';
