@@ -13,3 +13,4 @@ export { measureRoutingCachedBreakdown } from './features/routing-measure-cached
 export { deriveSessionsCachedBreakdown } from './features/sessions-derive-cached-breakdown';
 export { summarizeShipmentsCachedBreakdown } from './features/shipments-summarize-cached-breakdown';
 export { filterStateCachedBreakdown } from './features/state-filter-cached-breakdown';
+export { rankSuppliersCachedBreakdown } from './features/suppliers-rank-cached-breakdown';
