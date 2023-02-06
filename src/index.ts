@@ -16,3 +16,5 @@ export { filterStateCachedBreakdown } from './features/state-filter-cached-break
 export { rankSuppliersCachedBreakdown } from './features/suppliers-rank-cached-breakdown';
 export { calculateTablesCachedBreakdown } from './features/tables-calculate-cached-breakdown';
 export { groupTeamsCachedBreakdown } from './features/teams-group-cached-breakdown';
+export { resolveTelemetryCachedBreakdown } from './features/telemetry-resolve-cached-breakdown';
+export { TelemetryResolveCachedBreakdownCard } from './components/TelemetryResolveCachedBreakdownCard';
