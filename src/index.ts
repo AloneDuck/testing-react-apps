@@ -14,3 +14,4 @@ export { deriveSessionsCachedBreakdown } from './features/sessions-derive-cached
 export { summarizeShipmentsCachedBreakdown } from './features/shipments-summarize-cached-breakdown';
 export { filterStateCachedBreakdown } from './features/state-filter-cached-breakdown';
 export { rankSuppliersCachedBreakdown } from './features/suppliers-rank-cached-breakdown';
+export { calculateTablesCachedBreakdown } from './features/tables-calculate-cached-breakdown';
