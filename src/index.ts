@@ -18,3 +18,4 @@ export { calculateTablesCachedBreakdown } from './features/tables-calculate-cach
 export { groupTeamsCachedBreakdown } from './features/teams-group-cached-breakdown';
 export { resolveTelemetryCachedBreakdown } from './features/telemetry-resolve-cached-breakdown';
 export { TelemetryResolveCachedBreakdownCard } from './components/TelemetryResolveCachedBreakdownCard';
+export { measureWorkflowsCachedBreakdown } from './features/workflows-measure-cached-breakdown';
