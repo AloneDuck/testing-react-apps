@@ -21,3 +21,4 @@ export { TelemetryResolveCachedBreakdownCard } from './components/TelemetryResol
 export { measureWorkflowsCachedBreakdown } from './features/workflows-measure-cached-breakdown';
 export { aggregateReturnsCachedBreakdown } from './features/returns-aggregate-cached-breakdown';
 export { ReturnsAggregateCachedBreakdownCard } from './components/ReturnsAggregateCachedBreakdownCard';
+export { formatForecastingCachedBreakdown } from './features/forecasting-format-cached-breakdown';
