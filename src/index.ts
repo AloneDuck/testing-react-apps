@@ -19,3 +19,5 @@ export { groupTeamsCachedBreakdown } from './features/teams-group-cached-breakdo
 export { resolveTelemetryCachedBreakdown } from './features/telemetry-resolve-cached-breakdown';
 export { TelemetryResolveCachedBreakdownCard } from './components/TelemetryResolveCachedBreakdownCard';
 export { measureWorkflowsCachedBreakdown } from './features/workflows-measure-cached-breakdown';
+export { aggregateReturnsCachedBreakdown } from './features/returns-aggregate-cached-breakdown';
+export { ReturnsAggregateCachedBreakdownCard } from './components/ReturnsAggregateCachedBreakdownCard';
