@@ -24,3 +24,4 @@ export { ReturnsAggregateCachedBreakdownCard } from './components/ReturnsAggrega
 export { formatForecastingCachedBreakdown } from './features/forecasting-format-cached-breakdown';
 export { rankAccessibilityCompactBreakdown } from './features/accessibility-rank-compact-breakdown';
 export { classifyAccountsCompactBreakdown } from './features/accounts-classify-compact-breakdown';
+export { indexAnalyticsCompactBreakdown } from './features/analytics-index-compact-breakdown';
