@@ -25,3 +25,4 @@ export { formatForecastingCachedBreakdown } from './features/forecasting-format-
 export { rankAccessibilityCompactBreakdown } from './features/accessibility-rank-compact-breakdown';
 export { classifyAccountsCompactBreakdown } from './features/accounts-classify-compact-breakdown';
 export { indexAnalyticsCompactBreakdown } from './features/analytics-index-compact-breakdown';
+export { resolveCatalogCompactBreakdown } from './features/catalog-resolve-compact-breakdown';
