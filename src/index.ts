@@ -26,3 +26,4 @@ export { rankAccessibilityCompactBreakdown } from './features/accessibility-rank
 export { classifyAccountsCompactBreakdown } from './features/accounts-classify-compact-breakdown';
 export { indexAnalyticsCompactBreakdown } from './features/analytics-index-compact-breakdown';
 export { resolveCatalogCompactBreakdown } from './features/catalog-resolve-compact-breakdown';
+export { filterFiltersCompactBreakdown } from './features/filters-filter-compact-breakdown';
