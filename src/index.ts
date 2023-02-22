@@ -29,3 +29,5 @@ export { resolveCatalogCompactBreakdown } from './features/catalog-resolve-compa
 export { filterFiltersCompactBreakdown } from './features/filters-filter-compact-breakdown';
 export { prioritizeFormsCompactBreakdown } from './features/forms-prioritize-compact-breakdown';
 export { aggregateFulfillmentCompactBreakdown } from './features/fulfillment-aggregate-compact-breakdown';
+export { groupInventoryCompactBreakdown } from './features/inventory-group-compact-breakdown';
+export { InventoryGroupCompactBreakdownCard } from './components/InventoryGroupCompactBreakdownCard';
