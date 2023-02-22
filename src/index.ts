@@ -28,3 +28,4 @@ export { indexAnalyticsCompactBreakdown } from './features/analytics-index-compa
 export { resolveCatalogCompactBreakdown } from './features/catalog-resolve-compact-breakdown';
 export { filterFiltersCompactBreakdown } from './features/filters-filter-compact-breakdown';
 export { prioritizeFormsCompactBreakdown } from './features/forms-prioritize-compact-breakdown';
+export { aggregateFulfillmentCompactBreakdown } from './features/fulfillment-aggregate-compact-breakdown';
