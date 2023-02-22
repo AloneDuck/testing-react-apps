@@ -27,3 +27,4 @@ export { classifyAccountsCompactBreakdown } from './features/accounts-classify-c
 export { indexAnalyticsCompactBreakdown } from './features/analytics-index-compact-breakdown';
 export { resolveCatalogCompactBreakdown } from './features/catalog-resolve-compact-breakdown';
 export { filterFiltersCompactBreakdown } from './features/filters-filter-compact-breakdown';
+export { prioritizeFormsCompactBreakdown } from './features/forms-prioritize-compact-breakdown';
