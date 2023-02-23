@@ -31,3 +31,4 @@ export { prioritizeFormsCompactBreakdown } from './features/forms-prioritize-com
 export { aggregateFulfillmentCompactBreakdown } from './features/fulfillment-aggregate-compact-breakdown';
 export { groupInventoryCompactBreakdown } from './features/inventory-group-compact-breakdown';
 export { InventoryGroupCompactBreakdownCard } from './components/InventoryGroupCompactBreakdownCard';
+export { reduceLayoutCompactBreakdown } from './features/layout-reduce-compact-breakdown';
