@@ -32,3 +32,4 @@ export { aggregateFulfillmentCompactBreakdown } from './features/fulfillment-agg
 export { groupInventoryCompactBreakdown } from './features/inventory-group-compact-breakdown';
 export { InventoryGroupCompactBreakdownCard } from './components/InventoryGroupCompactBreakdownCard';
 export { reduceLayoutCompactBreakdown } from './features/layout-reduce-compact-breakdown';
+export { measureOrdersCompactBreakdown } from './features/orders-measure-compact-breakdown';
