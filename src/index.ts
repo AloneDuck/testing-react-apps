@@ -33,3 +33,4 @@ export { groupInventoryCompactBreakdown } from './features/inventory-group-compa
 export { InventoryGroupCompactBreakdownCard } from './components/InventoryGroupCompactBreakdownCard';
 export { reduceLayoutCompactBreakdown } from './features/layout-reduce-compact-breakdown';
 export { measureOrdersCompactBreakdown } from './features/orders-measure-compact-breakdown';
+export { schedulePricingCompactBreakdown } from './features/pricing-schedule-compact-breakdown';
