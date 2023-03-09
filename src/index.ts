@@ -35,3 +35,5 @@ export { reduceLayoutCompactBreakdown } from './features/layout-reduce-compact-b
 export { measureOrdersCompactBreakdown } from './features/orders-measure-compact-breakdown';
 export { schedulePricingCompactBreakdown } from './features/pricing-schedule-compact-breakdown';
 export { deriveProductsCompactBreakdown } from './features/products-derive-compact-breakdown';
+export { partitionReportsCompactBreakdown } from './features/reports-partition-compact-breakdown';
+export { ReportsPartitionCompactBreakdownCard } from './components/ReportsPartitionCompactBreakdownCard';
