@@ -37,3 +37,4 @@ export { schedulePricingCompactBreakdown } from './features/pricing-schedule-com
 export { deriveProductsCompactBreakdown } from './features/products-derive-compact-breakdown';
 export { partitionReportsCompactBreakdown } from './features/reports-partition-compact-breakdown';
 export { ReportsPartitionCompactBreakdownCard } from './components/ReportsPartitionCompactBreakdownCard';
+export { rankSessionsCompactBreakdown } from './features/sessions-rank-compact-breakdown';
