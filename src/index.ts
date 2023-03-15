@@ -40,3 +40,4 @@ export { ReportsPartitionCompactBreakdownCard } from './components/ReportsPartit
 export { rankSessionsCompactBreakdown } from './features/sessions-rank-compact-breakdown';
 export { compareSuppliersCompactBreakdown } from './features/suppliers-compare-compact-breakdown';
 export { measureTablesCompactBreakdown } from './features/tables-measure-compact-breakdown';
+export { estimateTelemetryCompactBreakdown } from './features/telemetry-estimate-compact-breakdown';
