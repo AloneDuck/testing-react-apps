@@ -41,3 +41,4 @@ export { rankSessionsCompactBreakdown } from './features/sessions-rank-compact-b
 export { compareSuppliersCompactBreakdown } from './features/suppliers-compare-compact-breakdown';
 export { measureTablesCompactBreakdown } from './features/tables-measure-compact-breakdown';
 export { estimateTelemetryCompactBreakdown } from './features/telemetry-estimate-compact-breakdown';
+export { partitionValidationCompactBreakdown } from './features/validation-partition-compact-breakdown';
