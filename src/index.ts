@@ -42,3 +42,5 @@ export { compareSuppliersCompactBreakdown } from './features/suppliers-compare-c
 export { measureTablesCompactBreakdown } from './features/tables-measure-compact-breakdown';
 export { estimateTelemetryCompactBreakdown } from './features/telemetry-estimate-compact-breakdown';
 export { partitionValidationCompactBreakdown } from './features/validation-partition-compact-breakdown';
+export { aggregateWorkflowsCompactBreakdown } from './features/workflows-aggregate-compact-breakdown';
+export { WorkflowsAggregateCompactBreakdownCard } from './components/WorkflowsAggregateCompactBreakdownCard';
