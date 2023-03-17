@@ -45,3 +45,4 @@ export { partitionValidationCompactBreakdown } from './features/validation-parti
 export { aggregateWorkflowsCompactBreakdown } from './features/workflows-aggregate-compact-breakdown';
 export { WorkflowsAggregateCompactBreakdownCard } from './components/WorkflowsAggregateCompactBreakdownCard';
 export { rankNotificationsCompactBreakdown } from './features/notifications-rank-compact-breakdown';
+export { classifyPermissionsCompactBreakdown } from './features/permissions-classify-compact-breakdown';
