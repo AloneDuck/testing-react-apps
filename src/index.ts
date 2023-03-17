@@ -46,3 +46,4 @@ export { aggregateWorkflowsCompactBreakdown } from './features/workflows-aggrega
 export { WorkflowsAggregateCompactBreakdownCard } from './components/WorkflowsAggregateCompactBreakdownCard';
 export { rankNotificationsCompactBreakdown } from './features/notifications-rank-compact-breakdown';
 export { classifyPermissionsCompactBreakdown } from './features/permissions-classify-compact-breakdown';
+export { indexReturnsCompactBreakdown } from './features/returns-index-compact-breakdown';
