@@ -44,3 +44,4 @@ export { estimateTelemetryCompactBreakdown } from './features/telemetry-estimate
 export { partitionValidationCompactBreakdown } from './features/validation-partition-compact-breakdown';
 export { aggregateWorkflowsCompactBreakdown } from './features/workflows-aggregate-compact-breakdown';
 export { WorkflowsAggregateCompactBreakdownCard } from './components/WorkflowsAggregateCompactBreakdownCard';
+export { rankNotificationsCompactBreakdown } from './features/notifications-rank-compact-breakdown';
