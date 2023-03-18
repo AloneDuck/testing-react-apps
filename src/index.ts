@@ -49,3 +49,4 @@ export { classifyPermissionsCompactBreakdown } from './features/permissions-clas
 export { indexReturnsCompactBreakdown } from './features/returns-index-compact-breakdown';
 export { deriveAccessibilityComposableBreakdown } from './features/accessibility-derive-composable-breakdown';
 export { AccessibilityDeriveComposableBreakdownCard } from './components/AccessibilityDeriveComposableBreakdownCard';
+export { normalizeAccountsComposableBreakdown } from './features/accounts-normalize-composable-breakdown';
