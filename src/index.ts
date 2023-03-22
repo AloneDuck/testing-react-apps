@@ -52,3 +52,4 @@ export { AccessibilityDeriveComposableBreakdownCard } from './components/Accessi
 export { normalizeAccountsComposableBreakdown } from './features/accounts-normalize-composable-breakdown';
 export { selectAnalyticsComposableBreakdown } from './features/analytics-select-composable-breakdown';
 export { aggregateCustomersComposableBreakdown } from './features/customers-aggregate-composable-breakdown';
+export { reduceFiltersComposableBreakdown } from './features/filters-reduce-composable-breakdown';
