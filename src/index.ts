@@ -53,3 +53,4 @@ export { normalizeAccountsComposableBreakdown } from './features/accounts-normal
 export { selectAnalyticsComposableBreakdown } from './features/analytics-select-composable-breakdown';
 export { aggregateCustomersComposableBreakdown } from './features/customers-aggregate-composable-breakdown';
 export { reduceFiltersComposableBreakdown } from './features/filters-reduce-composable-breakdown';
+export { measureFulfillmentComposableBreakdown } from './features/fulfillment-measure-composable-breakdown';
