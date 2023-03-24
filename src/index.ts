@@ -54,3 +54,4 @@ export { selectAnalyticsComposableBreakdown } from './features/analytics-select-
 export { aggregateCustomersComposableBreakdown } from './features/customers-aggregate-composable-breakdown';
 export { reduceFiltersComposableBreakdown } from './features/filters-reduce-composable-breakdown';
 export { measureFulfillmentComposableBreakdown } from './features/fulfillment-measure-composable-breakdown';
+export { deriveLayoutComposableBreakdown } from './features/layout-derive-composable-breakdown';
