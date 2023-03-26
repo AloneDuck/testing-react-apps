@@ -57,3 +57,4 @@ export { measureFulfillmentComposableBreakdown } from './features/fulfillment-me
 export { deriveLayoutComposableBreakdown } from './features/layout-derive-composable-breakdown';
 export { summarizeOrdersComposableBreakdown } from './features/orders-summarize-composable-breakdown';
 export { rankProductsComposableBreakdown } from './features/products-rank-composable-breakdown';
+export { groupRoutingComposableBreakdown } from './features/routing-group-composable-breakdown';
