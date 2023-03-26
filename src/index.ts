@@ -56,3 +56,4 @@ export { reduceFiltersComposableBreakdown } from './features/filters-reduce-comp
 export { measureFulfillmentComposableBreakdown } from './features/fulfillment-measure-composable-breakdown';
 export { deriveLayoutComposableBreakdown } from './features/layout-derive-composable-breakdown';
 export { summarizeOrdersComposableBreakdown } from './features/orders-summarize-composable-breakdown';
+export { rankProductsComposableBreakdown } from './features/products-rank-composable-breakdown';
