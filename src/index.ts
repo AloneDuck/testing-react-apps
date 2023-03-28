@@ -58,3 +58,5 @@ export { deriveLayoutComposableBreakdown } from './features/layout-derive-compos
 export { summarizeOrdersComposableBreakdown } from './features/orders-summarize-composable-breakdown';
 export { rankProductsComposableBreakdown } from './features/products-rank-composable-breakdown';
 export { groupRoutingComposableBreakdown } from './features/routing-group-composable-breakdown';
+export { resolveSearchComposableBreakdown } from './features/search-resolve-composable-breakdown';
+export { SearchResolveComposableBreakdownCard } from './components/SearchResolveComposableBreakdownCard';
