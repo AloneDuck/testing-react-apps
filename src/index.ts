@@ -61,3 +61,4 @@ export { groupRoutingComposableBreakdown } from './features/routing-group-compos
 export { resolveSearchComposableBreakdown } from './features/search-resolve-composable-breakdown';
 export { SearchResolveComposableBreakdownCard } from './components/SearchResolveComposableBreakdownCard';
 export { compareSessionsComposableBreakdown } from './features/sessions-compare-composable-breakdown';
+export { measureSettingsComposableBreakdown } from './features/settings-measure-composable-breakdown';
