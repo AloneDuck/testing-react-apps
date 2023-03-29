@@ -60,3 +60,4 @@ export { rankProductsComposableBreakdown } from './features/products-rank-compos
 export { groupRoutingComposableBreakdown } from './features/routing-group-composable-breakdown';
 export { resolveSearchComposableBreakdown } from './features/search-resolve-composable-breakdown';
 export { SearchResolveComposableBreakdownCard } from './components/SearchResolveComposableBreakdownCard';
+export { compareSessionsComposableBreakdown } from './features/sessions-compare-composable-breakdown';
