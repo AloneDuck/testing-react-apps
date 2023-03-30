@@ -62,3 +62,4 @@ export { resolveSearchComposableBreakdown } from './features/search-resolve-comp
 export { SearchResolveComposableBreakdownCard } from './components/SearchResolveComposableBreakdownCard';
 export { compareSessionsComposableBreakdown } from './features/sessions-compare-composable-breakdown';
 export { measureSettingsComposableBreakdown } from './features/settings-measure-composable-breakdown';
+export { estimateStateComposableBreakdown } from './features/state-estimate-composable-breakdown';
