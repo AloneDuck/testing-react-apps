@@ -65,3 +65,4 @@ export { measureSettingsComposableBreakdown } from './features/settings-measure-
 export { estimateStateComposableBreakdown } from './features/state-estimate-composable-breakdown';
 export { aggregateTablesComposableBreakdown } from './features/tables-aggregate-composable-breakdown';
 export { TablesAggregateComposableBreakdownCard } from './components/TablesAggregateComposableBreakdownCard';
+export { formatTeamsComposableBreakdown } from './features/teams-format-composable-breakdown';
