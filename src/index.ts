@@ -67,3 +67,4 @@ export { aggregateTablesComposableBreakdown } from './features/tables-aggregate-
 export { TablesAggregateComposableBreakdownCard } from './components/TablesAggregateComposableBreakdownCard';
 export { formatTeamsComposableBreakdown } from './features/teams-format-composable-breakdown';
 export { classifyValidationComposableBreakdown } from './features/validation-classify-composable-breakdown';
+export { resolveWorkspaceComposableBreakdown } from './features/workspace-resolve-composable-breakdown';
