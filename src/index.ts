@@ -68,3 +68,4 @@ export { TablesAggregateComposableBreakdownCard } from './components/TablesAggre
 export { formatTeamsComposableBreakdown } from './features/teams-format-composable-breakdown';
 export { classifyValidationComposableBreakdown } from './features/validation-classify-composable-breakdown';
 export { resolveWorkspaceComposableBreakdown } from './features/workspace-resolve-composable-breakdown';
+export { prioritizeAccessibilityDeferredBreakdown } from './features/accessibility-prioritize-deferred-breakdown';
