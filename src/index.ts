@@ -70,3 +70,5 @@ export { classifyValidationComposableBreakdown } from './features/validation-cla
 export { resolveWorkspaceComposableBreakdown } from './features/workspace-resolve-composable-breakdown';
 export { prioritizeAccessibilityDeferredBreakdown } from './features/accessibility-prioritize-deferred-breakdown';
 export { aggregateAccountsDeferredBreakdown } from './features/accounts-aggregate-deferred-breakdown';
+export { groupAnalyticsDeferredBreakdown } from './features/analytics-group-deferred-breakdown';
+export { AnalyticsGroupDeferredBreakdownCard } from './components/AnalyticsGroupDeferredBreakdownCard';
