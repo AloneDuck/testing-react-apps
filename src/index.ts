@@ -69,3 +69,4 @@ export { formatTeamsComposableBreakdown } from './features/teams-format-composab
 export { classifyValidationComposableBreakdown } from './features/validation-classify-composable-breakdown';
 export { resolveWorkspaceComposableBreakdown } from './features/workspace-resolve-composable-breakdown';
 export { prioritizeAccessibilityDeferredBreakdown } from './features/accessibility-prioritize-deferred-breakdown';
+export { aggregateAccountsDeferredBreakdown } from './features/accounts-aggregate-deferred-breakdown';

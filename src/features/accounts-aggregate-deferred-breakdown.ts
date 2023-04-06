@@ -1,0 +1,4 @@
+/** aggregate the deferred breakdown from a numeric series. */
+export function aggregateAccountsDeferredBreakdown(values: readonly number[]): number {
+  return values.length ? values.reduce((sum, value) => sum + value, 0) / values.length : 0;
+}
