@@ -73,3 +73,4 @@ export { aggregateAccountsDeferredBreakdown } from './features/accounts-aggregat
 export { groupAnalyticsDeferredBreakdown } from './features/analytics-group-deferred-breakdown';
 export { AnalyticsGroupDeferredBreakdownCard } from './components/AnalyticsGroupDeferredBreakdownCard';
 export { scheduleDeliveryDeferredBreakdown } from './features/delivery-schedule-deferred-breakdown';
+export { deriveFiltersDeferredBreakdown } from './features/filters-derive-deferred-breakdown';
