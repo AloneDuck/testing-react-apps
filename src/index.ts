@@ -72,3 +72,4 @@ export { prioritizeAccessibilityDeferredBreakdown } from './features/accessibili
 export { aggregateAccountsDeferredBreakdown } from './features/accounts-aggregate-deferred-breakdown';
 export { groupAnalyticsDeferredBreakdown } from './features/analytics-group-deferred-breakdown';
 export { AnalyticsGroupDeferredBreakdownCard } from './components/AnalyticsGroupDeferredBreakdownCard';
+export { scheduleDeliveryDeferredBreakdown } from './features/delivery-schedule-deferred-breakdown';
