@@ -74,3 +74,5 @@ export { groupAnalyticsDeferredBreakdown } from './features/analytics-group-defe
 export { AnalyticsGroupDeferredBreakdownCard } from './components/AnalyticsGroupDeferredBreakdownCard';
 export { scheduleDeliveryDeferredBreakdown } from './features/delivery-schedule-deferred-breakdown';
 export { deriveFiltersDeferredBreakdown } from './features/filters-derive-deferred-breakdown';
+export { partitionFormsDeferredBreakdown } from './features/forms-partition-deferred-breakdown';
+export { FormsPartitionDeferredBreakdownCard } from './components/FormsPartitionDeferredBreakdownCard';
