@@ -78,3 +78,4 @@ export { partitionFormsDeferredBreakdown } from './features/forms-partition-defe
 export { FormsPartitionDeferredBreakdownCard } from './components/FormsPartitionDeferredBreakdownCard';
 export { rankLayoutDeferredBreakdown } from './features/layout-rank-deferred-breakdown';
 export { calculateNavigationDeferredBreakdown } from './features/navigation-calculate-deferred-breakdown';
+export { groupOrdersDeferredBreakdown } from './features/orders-group-deferred-breakdown';
