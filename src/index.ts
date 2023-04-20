@@ -80,3 +80,4 @@ export { rankLayoutDeferredBreakdown } from './features/layout-rank-deferred-bre
 export { calculateNavigationDeferredBreakdown } from './features/navigation-calculate-deferred-breakdown';
 export { groupOrdersDeferredBreakdown } from './features/orders-group-deferred-breakdown';
 export { compareProductsDeferredBreakdown } from './features/products-compare-deferred-breakdown';
+export { measureReportsDeferredBreakdown } from './features/reports-measure-deferred-breakdown';
