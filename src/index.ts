@@ -81,3 +81,4 @@ export { calculateNavigationDeferredBreakdown } from './features/navigation-calc
 export { groupOrdersDeferredBreakdown } from './features/orders-group-deferred-breakdown';
 export { compareProductsDeferredBreakdown } from './features/products-compare-deferred-breakdown';
 export { measureReportsDeferredBreakdown } from './features/reports-measure-deferred-breakdown';
+export { selectRoutingDeferredBreakdown } from './features/routing-select-deferred-breakdown';
