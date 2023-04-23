@@ -83,3 +83,5 @@ export { compareProductsDeferredBreakdown } from './features/products-compare-de
 export { measureReportsDeferredBreakdown } from './features/reports-measure-deferred-breakdown';
 export { selectRoutingDeferredBreakdown } from './features/routing-select-deferred-breakdown';
 export { partitionSessionsDeferredBreakdown } from './features/sessions-partition-deferred-breakdown';
+export { aggregateSettingsDeferredBreakdown } from './features/settings-aggregate-deferred-breakdown';
+export { SettingsAggregateDeferredBreakdownCard } from './components/SettingsAggregateDeferredBreakdownCard';
