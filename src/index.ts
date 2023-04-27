@@ -85,3 +85,4 @@ export { selectRoutingDeferredBreakdown } from './features/routing-select-deferr
 export { partitionSessionsDeferredBreakdown } from './features/sessions-partition-deferred-breakdown';
 export { aggregateSettingsDeferredBreakdown } from './features/settings-aggregate-deferred-breakdown';
 export { SettingsAggregateDeferredBreakdownCard } from './components/SettingsAggregateDeferredBreakdownCard';
+export { classifySuppliersDeferredBreakdown } from './features/suppliers-classify-deferred-breakdown';
