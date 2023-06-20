@@ -86,3 +86,4 @@ export { partitionSessionsDeferredBreakdown } from './features/sessions-partitio
 export { aggregateSettingsDeferredBreakdown } from './features/settings-aggregate-deferred-breakdown';
 export { SettingsAggregateDeferredBreakdownCard } from './components/SettingsAggregateDeferredBreakdownCard';
 export { classifySuppliersDeferredBreakdown } from './features/suppliers-classify-deferred-breakdown';
+export { indexTablesDeferredBreakdown } from './features/tables-index-deferred-breakdown';
