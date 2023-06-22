@@ -87,3 +87,4 @@ export { aggregateSettingsDeferredBreakdown } from './features/settings-aggregat
 export { SettingsAggregateDeferredBreakdownCard } from './components/SettingsAggregateDeferredBreakdownCard';
 export { classifySuppliersDeferredBreakdown } from './features/suppliers-classify-deferred-breakdown';
 export { indexTablesDeferredBreakdown } from './features/tables-index-deferred-breakdown';
+export { normalizeValidationDeferredBreakdown } from './features/validation-normalize-deferred-breakdown';
