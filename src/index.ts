@@ -88,3 +88,4 @@ export { SettingsAggregateDeferredBreakdownCard } from './components/SettingsAgg
 export { classifySuppliersDeferredBreakdown } from './features/suppliers-classify-deferred-breakdown';
 export { indexTablesDeferredBreakdown } from './features/tables-index-deferred-breakdown';
 export { normalizeValidationDeferredBreakdown } from './features/validation-normalize-deferred-breakdown';
+export { selectWorkflowsDeferredBreakdown } from './features/workflows-select-deferred-breakdown';
