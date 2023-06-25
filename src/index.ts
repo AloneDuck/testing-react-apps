@@ -89,3 +89,4 @@ export { classifySuppliersDeferredBreakdown } from './features/suppliers-classif
 export { indexTablesDeferredBreakdown } from './features/tables-index-deferred-breakdown';
 export { normalizeValidationDeferredBreakdown } from './features/validation-normalize-deferred-breakdown';
 export { selectWorkflowsDeferredBreakdown } from './features/workflows-select-deferred-breakdown';
+export { filterWorkspaceDeferredBreakdown } from './features/workspace-filter-deferred-breakdown';
