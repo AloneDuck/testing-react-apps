@@ -91,3 +91,4 @@ export { normalizeValidationDeferredBreakdown } from './features/validation-norm
 export { selectWorkflowsDeferredBreakdown } from './features/workflows-select-deferred-breakdown';
 export { filterWorkspaceDeferredBreakdown } from './features/workspace-filter-deferred-breakdown';
 export { prioritizeNotificationsDeferredBreakdown } from './features/notifications-prioritize-deferred-breakdown';
+export { aggregatePermissionsDeferredBreakdown } from './features/permissions-aggregate-deferred-breakdown';
