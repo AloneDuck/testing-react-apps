@@ -92,3 +92,5 @@ export { selectWorkflowsDeferredBreakdown } from './features/workflows-select-de
 export { filterWorkspaceDeferredBreakdown } from './features/workspace-filter-deferred-breakdown';
 export { prioritizeNotificationsDeferredBreakdown } from './features/notifications-prioritize-deferred-breakdown';
 export { aggregatePermissionsDeferredBreakdown } from './features/permissions-aggregate-deferred-breakdown';
+export { groupReturnsDeferredBreakdown } from './features/returns-group-deferred-breakdown';
+export { ReturnsGroupDeferredBreakdownCard } from './components/ReturnsGroupDeferredBreakdownCard';
