@@ -94,3 +94,4 @@ export { prioritizeNotificationsDeferredBreakdown } from './features/notificatio
 export { aggregatePermissionsDeferredBreakdown } from './features/permissions-aggregate-deferred-breakdown';
 export { groupReturnsDeferredBreakdown } from './features/returns-group-deferred-breakdown';
 export { ReturnsGroupDeferredBreakdownCard } from './components/ReturnsGroupDeferredBreakdownCard';
+export { classifyAccessibilityDeterministicBreakdown } from './features/accessibility-classify-deterministic-breakdown';
