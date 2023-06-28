@@ -95,3 +95,4 @@ export { aggregatePermissionsDeferredBreakdown } from './features/permissions-ag
 export { groupReturnsDeferredBreakdown } from './features/returns-group-deferred-breakdown';
 export { ReturnsGroupDeferredBreakdownCard } from './components/ReturnsGroupDeferredBreakdownCard';
 export { classifyAccessibilityDeterministicBreakdown } from './features/accessibility-classify-deterministic-breakdown';
+export { scheduleAnalyticsDeterministicBreakdown } from './features/analytics-schedule-deterministic-breakdown';
