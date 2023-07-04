@@ -97,3 +97,4 @@ export { ReturnsGroupDeferredBreakdownCard } from './components/ReturnsGroupDefe
 export { classifyAccessibilityDeterministicBreakdown } from './features/accessibility-classify-deterministic-breakdown';
 export { scheduleAnalyticsDeterministicBreakdown } from './features/analytics-schedule-deterministic-breakdown';
 export { deriveCatalogDeterministicBreakdown } from './features/catalog-derive-deterministic-breakdown';
+export { compareLayoutDeterministicBreakdown } from './features/layout-compare-deterministic-breakdown';
