@@ -98,3 +98,4 @@ export { classifyAccessibilityDeterministicBreakdown } from './features/accessib
 export { scheduleAnalyticsDeterministicBreakdown } from './features/analytics-schedule-deterministic-breakdown';
 export { deriveCatalogDeterministicBreakdown } from './features/catalog-derive-deterministic-breakdown';
 export { compareLayoutDeterministicBreakdown } from './features/layout-compare-deterministic-breakdown';
+export { selectOrdersDeterministicBreakdown } from './features/orders-select-deterministic-breakdown';
