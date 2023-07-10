@@ -99,3 +99,4 @@ export { scheduleAnalyticsDeterministicBreakdown } from './features/analytics-sc
 export { deriveCatalogDeterministicBreakdown } from './features/catalog-derive-deterministic-breakdown';
 export { compareLayoutDeterministicBreakdown } from './features/layout-compare-deterministic-breakdown';
 export { selectOrdersDeterministicBreakdown } from './features/orders-select-deterministic-breakdown';
+export { formatRoutingDeterministicBreakdown } from './features/routing-format-deterministic-breakdown';
