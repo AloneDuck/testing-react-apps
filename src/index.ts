@@ -100,3 +100,4 @@ export { deriveCatalogDeterministicBreakdown } from './features/catalog-derive-d
 export { compareLayoutDeterministicBreakdown } from './features/layout-compare-deterministic-breakdown';
 export { selectOrdersDeterministicBreakdown } from './features/orders-select-deterministic-breakdown';
 export { formatRoutingDeterministicBreakdown } from './features/routing-format-deterministic-breakdown';
+export { classifySessionsDeterministicBreakdown } from './features/sessions-classify-deterministic-breakdown';
