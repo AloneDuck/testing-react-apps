@@ -101,3 +101,4 @@ export { compareLayoutDeterministicBreakdown } from './features/layout-compare-d
 export { selectOrdersDeterministicBreakdown } from './features/orders-select-deterministic-breakdown';
 export { formatRoutingDeterministicBreakdown } from './features/routing-format-deterministic-breakdown';
 export { classifySessionsDeterministicBreakdown } from './features/sessions-classify-deterministic-breakdown';
+export { resolveShipmentsDeterministicBreakdown } from './features/shipments-resolve-deterministic-breakdown';
