@@ -102,3 +102,5 @@ export { selectOrdersDeterministicBreakdown } from './features/orders-select-det
 export { formatRoutingDeterministicBreakdown } from './features/routing-format-deterministic-breakdown';
 export { classifySessionsDeterministicBreakdown } from './features/sessions-classify-deterministic-breakdown';
 export { resolveShipmentsDeterministicBreakdown } from './features/shipments-resolve-deterministic-breakdown';
+export { deriveStateDeterministicBreakdown } from './features/state-derive-deterministic-breakdown';
+export { StateDeriveDeterministicBreakdownCard } from './components/StateDeriveDeterministicBreakdownCard';
