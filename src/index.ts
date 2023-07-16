@@ -104,3 +104,4 @@ export { classifySessionsDeterministicBreakdown } from './features/sessions-clas
 export { resolveShipmentsDeterministicBreakdown } from './features/shipments-resolve-deterministic-breakdown';
 export { deriveStateDeterministicBreakdown } from './features/state-derive-deterministic-breakdown';
 export { StateDeriveDeterministicBreakdownCard } from './components/StateDeriveDeterministicBreakdownCard';
+export { selectTablesDeterministicBreakdown } from './features/tables-select-deterministic-breakdown';
