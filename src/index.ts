@@ -111,3 +111,4 @@ export { groupWorkflowsDeterministicBreakdown } from './features/workflows-group
 export { WorkflowsGroupDeterministicBreakdownCard } from './components/WorkflowsGroupDeterministicBreakdownCard';
 export { classifyNotificationsDeterministicBreakdown } from './features/notifications-classify-deterministic-breakdown';
 export { measurePermissionsDeterministicBreakdown } from './features/permissions-measure-deterministic-breakdown';
+export { scheduleReturnsDeterministicBreakdown } from './features/returns-schedule-deterministic-breakdown';
