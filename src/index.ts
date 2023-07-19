@@ -107,3 +107,5 @@ export { StateDeriveDeterministicBreakdownCard } from './components/StateDeriveD
 export { selectTablesDeterministicBreakdown } from './features/tables-select-deterministic-breakdown';
 export { filterTeamsDeterministicBreakdown } from './features/teams-filter-deterministic-breakdown';
 export { prioritizeTelemetryDeterministicBreakdown } from './features/telemetry-prioritize-deterministic-breakdown';
+export { groupWorkflowsDeterministicBreakdown } from './features/workflows-group-deterministic-breakdown';
+export { WorkflowsGroupDeterministicBreakdownCard } from './components/WorkflowsGroupDeterministicBreakdownCard';
