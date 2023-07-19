@@ -110,3 +110,4 @@ export { prioritizeTelemetryDeterministicBreakdown } from './features/telemetry-
 export { groupWorkflowsDeterministicBreakdown } from './features/workflows-group-deterministic-breakdown';
 export { WorkflowsGroupDeterministicBreakdownCard } from './components/WorkflowsGroupDeterministicBreakdownCard';
 export { classifyNotificationsDeterministicBreakdown } from './features/notifications-classify-deterministic-breakdown';
+export { measurePermissionsDeterministicBreakdown } from './features/permissions-measure-deterministic-breakdown';
