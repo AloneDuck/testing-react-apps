@@ -109,3 +109,4 @@ export { filterTeamsDeterministicBreakdown } from './features/teams-filter-deter
 export { prioritizeTelemetryDeterministicBreakdown } from './features/telemetry-prioritize-deterministic-breakdown';
 export { groupWorkflowsDeterministicBreakdown } from './features/workflows-group-deterministic-breakdown';
 export { WorkflowsGroupDeterministicBreakdownCard } from './components/WorkflowsGroupDeterministicBreakdownCard';
+export { classifyNotificationsDeterministicBreakdown } from './features/notifications-classify-deterministic-breakdown';
