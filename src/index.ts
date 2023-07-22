@@ -116,3 +116,4 @@ export { deriveForecastingDeterministicBreakdown } from './features/forecasting-
 export { partitionAccessibilityDirectionalBreakdown } from './features/accessibility-partition-directional-breakdown';
 export { AccessibilityPartitionDirectionalBreakdownCard } from './components/AccessibilityPartitionDirectionalBreakdownCard';
 export { summarizeAccountsDirectionalBreakdown } from './features/accounts-summarize-directional-breakdown';
+export { filterAnalyticsDirectionalBreakdown } from './features/analytics-filter-directional-breakdown';
