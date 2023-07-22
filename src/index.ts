@@ -115,3 +115,4 @@ export { scheduleReturnsDeterministicBreakdown } from './features/returns-schedu
 export { deriveForecastingDeterministicBreakdown } from './features/forecasting-derive-deterministic-breakdown';
 export { partitionAccessibilityDirectionalBreakdown } from './features/accessibility-partition-directional-breakdown';
 export { AccessibilityPartitionDirectionalBreakdownCard } from './components/AccessibilityPartitionDirectionalBreakdownCard';
+export { summarizeAccountsDirectionalBreakdown } from './features/accounts-summarize-directional-breakdown';
