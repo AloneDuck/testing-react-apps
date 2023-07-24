@@ -118,3 +118,4 @@ export { AccessibilityPartitionDirectionalBreakdownCard } from './components/Acc
 export { summarizeAccountsDirectionalBreakdown } from './features/accounts-summarize-directional-breakdown';
 export { filterAnalyticsDirectionalBreakdown } from './features/analytics-filter-directional-breakdown';
 export { rankCatalogDirectionalBreakdown } from './features/catalog-rank-directional-breakdown';
+export { calculateCheckoutDirectionalBreakdown } from './features/checkout-calculate-directional-breakdown';
