@@ -117,3 +117,4 @@ export { partitionAccessibilityDirectionalBreakdown } from './features/accessibi
 export { AccessibilityPartitionDirectionalBreakdownCard } from './components/AccessibilityPartitionDirectionalBreakdownCard';
 export { summarizeAccountsDirectionalBreakdown } from './features/accounts-summarize-directional-breakdown';
 export { filterAnalyticsDirectionalBreakdown } from './features/analytics-filter-directional-breakdown';
+export { rankCatalogDirectionalBreakdown } from './features/catalog-rank-directional-breakdown';
