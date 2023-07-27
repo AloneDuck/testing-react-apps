@@ -119,3 +119,4 @@ export { summarizeAccountsDirectionalBreakdown } from './features/accounts-summa
 export { filterAnalyticsDirectionalBreakdown } from './features/analytics-filter-directional-breakdown';
 export { rankCatalogDirectionalBreakdown } from './features/catalog-rank-directional-breakdown';
 export { calculateCheckoutDirectionalBreakdown } from './features/checkout-calculate-directional-breakdown';
+export { measureFormsDirectionalBreakdown } from './features/forms-measure-directional-breakdown';
