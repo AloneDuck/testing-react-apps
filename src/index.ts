@@ -120,3 +120,4 @@ export { filterAnalyticsDirectionalBreakdown } from './features/analytics-filter
 export { rankCatalogDirectionalBreakdown } from './features/catalog-rank-directional-breakdown';
 export { calculateCheckoutDirectionalBreakdown } from './features/checkout-calculate-directional-breakdown';
 export { measureFormsDirectionalBreakdown } from './features/forms-measure-directional-breakdown';
+export { selectFulfillmentDirectionalBreakdown } from './features/fulfillment-select-directional-breakdown';
