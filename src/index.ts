@@ -122,3 +122,4 @@ export { calculateCheckoutDirectionalBreakdown } from './features/checkout-calcu
 export { measureFormsDirectionalBreakdown } from './features/forms-measure-directional-breakdown';
 export { selectFulfillmentDirectionalBreakdown } from './features/fulfillment-select-directional-breakdown';
 export { estimateInventoryDirectionalBreakdown } from './features/inventory-estimate-directional-breakdown';
+export { partitionLayoutDirectionalBreakdown } from './features/layout-partition-directional-breakdown';
