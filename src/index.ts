@@ -125,3 +125,4 @@ export { estimateInventoryDirectionalBreakdown } from './features/inventory-esti
 export { partitionLayoutDirectionalBreakdown } from './features/layout-partition-directional-breakdown';
 export { aggregateNavigationDirectionalBreakdown } from './features/navigation-aggregate-directional-breakdown';
 export { NavigationAggregateDirectionalBreakdownCard } from './components/NavigationAggregateDirectionalBreakdownCard';
+export { rankPricingDirectionalBreakdown } from './features/pricing-rank-directional-breakdown';
