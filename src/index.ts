@@ -123,3 +123,5 @@ export { measureFormsDirectionalBreakdown } from './features/forms-measure-direc
 export { selectFulfillmentDirectionalBreakdown } from './features/fulfillment-select-directional-breakdown';
 export { estimateInventoryDirectionalBreakdown } from './features/inventory-estimate-directional-breakdown';
 export { partitionLayoutDirectionalBreakdown } from './features/layout-partition-directional-breakdown';
+export { aggregateNavigationDirectionalBreakdown } from './features/navigation-aggregate-directional-breakdown';
+export { NavigationAggregateDirectionalBreakdownCard } from './components/NavigationAggregateDirectionalBreakdownCard';
