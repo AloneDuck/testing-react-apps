@@ -126,3 +126,4 @@ export { partitionLayoutDirectionalBreakdown } from './features/layout-partition
 export { aggregateNavigationDirectionalBreakdown } from './features/navigation-aggregate-directional-breakdown';
 export { NavigationAggregateDirectionalBreakdownCard } from './components/NavigationAggregateDirectionalBreakdownCard';
 export { rankPricingDirectionalBreakdown } from './features/pricing-rank-directional-breakdown';
+export { resolveRoutingDirectionalBreakdown } from './features/routing-resolve-directional-breakdown';
