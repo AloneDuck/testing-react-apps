@@ -128,3 +128,4 @@ export { NavigationAggregateDirectionalBreakdownCard } from './components/Naviga
 export { rankPricingDirectionalBreakdown } from './features/pricing-rank-directional-breakdown';
 export { resolveRoutingDirectionalBreakdown } from './features/routing-resolve-directional-breakdown';
 export { selectSettingsDirectionalBreakdown } from './features/settings-select-directional-breakdown';
+export { filterShipmentsDirectionalBreakdown } from './features/shipments-filter-directional-breakdown';
