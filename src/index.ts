@@ -127,3 +127,4 @@ export { aggregateNavigationDirectionalBreakdown } from './features/navigation-a
 export { NavigationAggregateDirectionalBreakdownCard } from './components/NavigationAggregateDirectionalBreakdownCard';
 export { rankPricingDirectionalBreakdown } from './features/pricing-rank-directional-breakdown';
 export { resolveRoutingDirectionalBreakdown } from './features/routing-resolve-directional-breakdown';
+export { selectSettingsDirectionalBreakdown } from './features/settings-select-directional-breakdown';
