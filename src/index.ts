@@ -129,3 +129,5 @@ export { rankPricingDirectionalBreakdown } from './features/pricing-rank-directi
 export { resolveRoutingDirectionalBreakdown } from './features/routing-resolve-directional-breakdown';
 export { selectSettingsDirectionalBreakdown } from './features/settings-select-directional-breakdown';
 export { filterShipmentsDirectionalBreakdown } from './features/shipments-filter-directional-breakdown';
+export { groupTablesDirectionalBreakdown } from './features/tables-group-directional-breakdown';
+export { TablesGroupDirectionalBreakdownCard } from './components/TablesGroupDirectionalBreakdownCard';
