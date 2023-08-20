@@ -131,3 +131,4 @@ export { selectSettingsDirectionalBreakdown } from './features/settings-select-d
 export { filterShipmentsDirectionalBreakdown } from './features/shipments-filter-directional-breakdown';
 export { groupTablesDirectionalBreakdown } from './features/tables-group-directional-breakdown';
 export { TablesGroupDirectionalBreakdownCard } from './components/TablesGroupDirectionalBreakdownCard';
+export { deriveWorkspaceDirectionalBreakdown } from './features/workspace-derive-directional-breakdown';
