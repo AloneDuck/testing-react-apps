@@ -132,3 +132,4 @@ export { filterShipmentsDirectionalBreakdown } from './features/shipments-filter
 export { groupTablesDirectionalBreakdown } from './features/tables-group-directional-breakdown';
 export { TablesGroupDirectionalBreakdownCard } from './components/TablesGroupDirectionalBreakdownCard';
 export { deriveWorkspaceDirectionalBreakdown } from './features/workspace-derive-directional-breakdown';
+export { summarizePermissionsDirectionalBreakdown } from './features/permissions-summarize-directional-breakdown';
