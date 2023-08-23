@@ -133,3 +133,4 @@ export { groupTablesDirectionalBreakdown } from './features/tables-group-directi
 export { TablesGroupDirectionalBreakdownCard } from './components/TablesGroupDirectionalBreakdownCard';
 export { deriveWorkspaceDirectionalBreakdown } from './features/workspace-derive-directional-breakdown';
 export { summarizePermissionsDirectionalBreakdown } from './features/permissions-summarize-directional-breakdown';
+export { rankForecastingDirectionalBreakdown } from './features/forecasting-rank-directional-breakdown';
