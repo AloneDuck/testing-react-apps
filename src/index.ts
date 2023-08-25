@@ -135,3 +135,4 @@ export { deriveWorkspaceDirectionalBreakdown } from './features/workspace-derive
 export { summarizePermissionsDirectionalBreakdown } from './features/permissions-summarize-directional-breakdown';
 export { rankForecastingDirectionalBreakdown } from './features/forecasting-rank-directional-breakdown';
 export { calculateAccessibilityDistributedBreakdown } from './features/accessibility-calculate-distributed-breakdown';
+export { compareCatalogDistributedBreakdown } from './features/catalog-compare-distributed-breakdown';
