@@ -136,3 +136,4 @@ export { summarizePermissionsDirectionalBreakdown } from './features/permissions
 export { rankForecastingDirectionalBreakdown } from './features/forecasting-rank-directional-breakdown';
 export { calculateAccessibilityDistributedBreakdown } from './features/accessibility-calculate-distributed-breakdown';
 export { compareCatalogDistributedBreakdown } from './features/catalog-compare-distributed-breakdown';
+export { measureCheckoutDistributedBreakdown } from './features/checkout-measure-distributed-breakdown';
