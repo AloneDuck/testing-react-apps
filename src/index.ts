@@ -137,3 +137,4 @@ export { rankForecastingDirectionalBreakdown } from './features/forecasting-rank
 export { calculateAccessibilityDistributedBreakdown } from './features/accessibility-calculate-distributed-breakdown';
 export { compareCatalogDistributedBreakdown } from './features/catalog-compare-distributed-breakdown';
 export { measureCheckoutDistributedBreakdown } from './features/checkout-measure-distributed-breakdown';
+export { estimateDeliveryDistributedBreakdown } from './features/delivery-estimate-distributed-breakdown';
