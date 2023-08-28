@@ -138,3 +138,4 @@ export { calculateAccessibilityDistributedBreakdown } from './features/accessibi
 export { compareCatalogDistributedBreakdown } from './features/catalog-compare-distributed-breakdown';
 export { measureCheckoutDistributedBreakdown } from './features/checkout-measure-distributed-breakdown';
 export { estimateDeliveryDistributedBreakdown } from './features/delivery-estimate-distributed-breakdown';
+export { partitionFiltersDistributedBreakdown } from './features/filters-partition-distributed-breakdown';
