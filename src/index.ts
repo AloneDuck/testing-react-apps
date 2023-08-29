@@ -139,3 +139,4 @@ export { compareCatalogDistributedBreakdown } from './features/catalog-compare-d
 export { measureCheckoutDistributedBreakdown } from './features/checkout-measure-distributed-breakdown';
 export { estimateDeliveryDistributedBreakdown } from './features/delivery-estimate-distributed-breakdown';
 export { partitionFiltersDistributedBreakdown } from './features/filters-partition-distributed-breakdown';
+export { indexNavigationDistributedBreakdown } from './features/navigation-index-distributed-breakdown';
