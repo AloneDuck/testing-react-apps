@@ -140,3 +140,5 @@ export { measureCheckoutDistributedBreakdown } from './features/checkout-measure
 export { estimateDeliveryDistributedBreakdown } from './features/delivery-estimate-distributed-breakdown';
 export { partitionFiltersDistributedBreakdown } from './features/filters-partition-distributed-breakdown';
 export { indexNavigationDistributedBreakdown } from './features/navigation-index-distributed-breakdown';
+export { derivePricingDistributedBreakdown } from './features/pricing-derive-distributed-breakdown';
+export { PricingDeriveDistributedBreakdownCard } from './components/PricingDeriveDistributedBreakdownCard';
