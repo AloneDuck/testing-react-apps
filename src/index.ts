@@ -143,3 +143,4 @@ export { indexNavigationDistributedBreakdown } from './features/navigation-index
 export { derivePricingDistributedBreakdown } from './features/pricing-derive-distributed-breakdown';
 export { PricingDeriveDistributedBreakdownCard } from './components/PricingDeriveDistributedBreakdownCard';
 export { prioritizeSearchDistributedBreakdown } from './features/search-prioritize-distributed-breakdown';
+export { scheduleTablesDistributedBreakdown } from './features/tables-schedule-distributed-breakdown';
