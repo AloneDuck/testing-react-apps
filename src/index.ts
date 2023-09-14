@@ -144,3 +144,5 @@ export { derivePricingDistributedBreakdown } from './features/pricing-derive-dis
 export { PricingDeriveDistributedBreakdownCard } from './components/PricingDeriveDistributedBreakdownCard';
 export { prioritizeSearchDistributedBreakdown } from './features/search-prioritize-distributed-breakdown';
 export { scheduleTablesDistributedBreakdown } from './features/tables-schedule-distributed-breakdown';
+export { partitionTelemetryDistributedBreakdown } from './features/telemetry-partition-distributed-breakdown';
+export { TelemetryPartitionDistributedBreakdownCard } from './components/TelemetryPartitionDistributedBreakdownCard';
