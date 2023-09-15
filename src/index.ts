@@ -146,3 +146,4 @@ export { prioritizeSearchDistributedBreakdown } from './features/search-prioriti
 export { scheduleTablesDistributedBreakdown } from './features/tables-schedule-distributed-breakdown';
 export { partitionTelemetryDistributedBreakdown } from './features/telemetry-partition-distributed-breakdown';
 export { TelemetryPartitionDistributedBreakdownCard } from './components/TelemetryPartitionDistributedBreakdownCard';
+export { filterWorkflowsDistributedBreakdown } from './features/workflows-filter-distributed-breakdown';
