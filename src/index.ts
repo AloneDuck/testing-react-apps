@@ -148,3 +148,4 @@ export { partitionTelemetryDistributedBreakdown } from './features/telemetry-par
 export { TelemetryPartitionDistributedBreakdownCard } from './components/TelemetryPartitionDistributedBreakdownCard';
 export { filterWorkflowsDistributedBreakdown } from './features/workflows-filter-distributed-breakdown';
 export { rankWorkspaceDistributedBreakdown } from './features/workspace-rank-distributed-breakdown';
+export { calculateNotificationsDistributedBreakdown } from './features/notifications-calculate-distributed-breakdown';
