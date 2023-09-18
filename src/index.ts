@@ -151,3 +151,4 @@ export { rankWorkspaceDistributedBreakdown } from './features/workspace-rank-dis
 export { calculateNotificationsDistributedBreakdown } from './features/notifications-calculate-distributed-breakdown';
 export { groupPermissionsDistributedBreakdown } from './features/permissions-group-distributed-breakdown';
 export { selectAccountsFaultTolerantBreakdown } from './features/accounts-select-fault-tolerant-breakdown';
+export { estimateAnalyticsFaultTolerantBreakdown } from './features/analytics-estimate-fault-tolerant-breakdown';
