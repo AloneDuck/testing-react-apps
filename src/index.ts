@@ -150,3 +150,4 @@ export { filterWorkflowsDistributedBreakdown } from './features/workflows-filter
 export { rankWorkspaceDistributedBreakdown } from './features/workspace-rank-distributed-breakdown';
 export { calculateNotificationsDistributedBreakdown } from './features/notifications-calculate-distributed-breakdown';
 export { groupPermissionsDistributedBreakdown } from './features/permissions-group-distributed-breakdown';
+export { selectAccountsFaultTolerantBreakdown } from './features/accounts-select-fault-tolerant-breakdown';
