@@ -152,3 +152,4 @@ export { calculateNotificationsDistributedBreakdown } from './features/notificat
 export { groupPermissionsDistributedBreakdown } from './features/permissions-group-distributed-breakdown';
 export { selectAccountsFaultTolerantBreakdown } from './features/accounts-select-fault-tolerant-breakdown';
 export { estimateAnalyticsFaultTolerantBreakdown } from './features/analytics-estimate-fault-tolerant-breakdown';
+export { partitionCatalogFaultTolerantBreakdown } from './features/catalog-partition-fault-tolerant-breakdown';
