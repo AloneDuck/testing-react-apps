@@ -153,3 +153,4 @@ export { groupPermissionsDistributedBreakdown } from './features/permissions-gro
 export { selectAccountsFaultTolerantBreakdown } from './features/accounts-select-fault-tolerant-breakdown';
 export { estimateAnalyticsFaultTolerantBreakdown } from './features/analytics-estimate-fault-tolerant-breakdown';
 export { partitionCatalogFaultTolerantBreakdown } from './features/catalog-partition-fault-tolerant-breakdown';
+export { formatCustomersFaultTolerantBreakdown } from './features/customers-format-fault-tolerant-breakdown';
