@@ -1,0 +1,5 @@
+import { describe, expect, it } from 'vitest';
+import { resolveRoutingDirectionalBreakdown } from '../src/features/routing-resolve-directional-breakdown';
+describe('directional breakdown', () => {
+  it('handles single values', () => { expect(resolveRoutingDirectionalBreakdown([2, 4, 6, 8])).toBe(60); });
+});
