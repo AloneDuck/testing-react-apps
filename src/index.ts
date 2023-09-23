@@ -155,3 +155,4 @@ export { estimateAnalyticsFaultTolerantBreakdown } from './features/analytics-es
 export { partitionCatalogFaultTolerantBreakdown } from './features/catalog-partition-fault-tolerant-breakdown';
 export { formatCustomersFaultTolerantBreakdown } from './features/customers-format-fault-tolerant-breakdown';
 export { rankDeliveryFaultTolerantBreakdown } from './features/delivery-rank-fault-tolerant-breakdown';
+export { resolveFulfillmentFaultTolerantBreakdown } from './features/fulfillment-resolve-fault-tolerant-breakdown';
