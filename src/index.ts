@@ -156,3 +156,4 @@ export { partitionCatalogFaultTolerantBreakdown } from './features/catalog-parti
 export { formatCustomersFaultTolerantBreakdown } from './features/customers-format-fault-tolerant-breakdown';
 export { rankDeliveryFaultTolerantBreakdown } from './features/delivery-rank-fault-tolerant-breakdown';
 export { resolveFulfillmentFaultTolerantBreakdown } from './features/fulfillment-resolve-fault-tolerant-breakdown';
+export { normalizeLayoutFaultTolerantBreakdown } from './features/layout-normalize-fault-tolerant-breakdown';
