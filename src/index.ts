@@ -157,3 +157,4 @@ export { formatCustomersFaultTolerantBreakdown } from './features/customers-form
 export { rankDeliveryFaultTolerantBreakdown } from './features/delivery-rank-fault-tolerant-breakdown';
 export { resolveFulfillmentFaultTolerantBreakdown } from './features/fulfillment-resolve-fault-tolerant-breakdown';
 export { normalizeLayoutFaultTolerantBreakdown } from './features/layout-normalize-fault-tolerant-breakdown';
+export { aggregateProductsFaultTolerantBreakdown } from './features/products-aggregate-fault-tolerant-breakdown';
