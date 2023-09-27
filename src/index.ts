@@ -158,3 +158,4 @@ export { rankDeliveryFaultTolerantBreakdown } from './features/delivery-rank-fau
 export { resolveFulfillmentFaultTolerantBreakdown } from './features/fulfillment-resolve-fault-tolerant-breakdown';
 export { normalizeLayoutFaultTolerantBreakdown } from './features/layout-normalize-fault-tolerant-breakdown';
 export { aggregateProductsFaultTolerantBreakdown } from './features/products-aggregate-fault-tolerant-breakdown';
+export { reduceRoutingFaultTolerantBreakdown } from './features/routing-reduce-fault-tolerant-breakdown';
