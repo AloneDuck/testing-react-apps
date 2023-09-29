@@ -160,3 +160,5 @@ export { normalizeLayoutFaultTolerantBreakdown } from './features/layout-normali
 export { aggregateProductsFaultTolerantBreakdown } from './features/products-aggregate-fault-tolerant-breakdown';
 export { reduceRoutingFaultTolerantBreakdown } from './features/routing-reduce-fault-tolerant-breakdown';
 export { deriveShipmentsFaultTolerantBreakdown } from './features/shipments-derive-fault-tolerant-breakdown';
+export { partitionStateFaultTolerantBreakdown } from './features/state-partition-fault-tolerant-breakdown';
+export { StatePartitionFaultTolerantBreakdownCard } from './components/StatePartitionFaultTolerantBreakdownCard';
