@@ -159,3 +159,4 @@ export { resolveFulfillmentFaultTolerantBreakdown } from './features/fulfillment
 export { normalizeLayoutFaultTolerantBreakdown } from './features/layout-normalize-fault-tolerant-breakdown';
 export { aggregateProductsFaultTolerantBreakdown } from './features/products-aggregate-fault-tolerant-breakdown';
 export { reduceRoutingFaultTolerantBreakdown } from './features/routing-reduce-fault-tolerant-breakdown';
+export { deriveShipmentsFaultTolerantBreakdown } from './features/shipments-derive-fault-tolerant-breakdown';
