@@ -162,3 +162,4 @@ export { reduceRoutingFaultTolerantBreakdown } from './features/routing-reduce-f
 export { deriveShipmentsFaultTolerantBreakdown } from './features/shipments-derive-fault-tolerant-breakdown';
 export { partitionStateFaultTolerantBreakdown } from './features/state-partition-fault-tolerant-breakdown';
 export { StatePartitionFaultTolerantBreakdownCard } from './components/StatePartitionFaultTolerantBreakdownCard';
+export { filterTablesFaultTolerantBreakdown } from './features/tables-filter-fault-tolerant-breakdown';
