@@ -163,3 +163,4 @@ export { deriveShipmentsFaultTolerantBreakdown } from './features/shipments-deri
 export { partitionStateFaultTolerantBreakdown } from './features/state-partition-fault-tolerant-breakdown';
 export { StatePartitionFaultTolerantBreakdownCard } from './components/StatePartitionFaultTolerantBreakdownCard';
 export { filterTablesFaultTolerantBreakdown } from './features/tables-filter-fault-tolerant-breakdown';
+export { calculateTelemetryFaultTolerantBreakdown } from './features/telemetry-calculate-fault-tolerant-breakdown';
