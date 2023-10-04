@@ -166,3 +166,4 @@ export { filterTablesFaultTolerantBreakdown } from './features/tables-filter-fau
 export { calculateTelemetryFaultTolerantBreakdown } from './features/telemetry-calculate-fault-tolerant-breakdown';
 export { measureNotificationsFaultTolerantBreakdown } from './features/notifications-measure-fault-tolerant-breakdown';
 export { estimateReturnsFaultTolerantBreakdown } from './features/returns-estimate-fault-tolerant-breakdown';
+export { partitionForecastingFaultTolerantBreakdown } from './features/forecasting-partition-fault-tolerant-breakdown';
