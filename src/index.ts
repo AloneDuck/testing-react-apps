@@ -167,3 +167,5 @@ export { calculateTelemetryFaultTolerantBreakdown } from './features/telemetry-c
 export { measureNotificationsFaultTolerantBreakdown } from './features/notifications-measure-fault-tolerant-breakdown';
 export { estimateReturnsFaultTolerantBreakdown } from './features/returns-estimate-fault-tolerant-breakdown';
 export { partitionForecastingFaultTolerantBreakdown } from './features/forecasting-partition-fault-tolerant-breakdown';
+export { aggregateAccessibilityFocusedBreakdown } from './features/accessibility-aggregate-focused-breakdown';
+export { AccessibilityAggregateFocusedBreakdownCard } from './components/AccessibilityAggregateFocusedBreakdownCard';
