@@ -170,3 +170,4 @@ export { partitionForecastingFaultTolerantBreakdown } from './features/forecasti
 export { aggregateAccessibilityFocusedBreakdown } from './features/accessibility-aggregate-focused-breakdown';
 export { AccessibilityAggregateFocusedBreakdownCard } from './components/AccessibilityAggregateFocusedBreakdownCard';
 export { classifyCatalogFocusedBreakdown } from './features/catalog-classify-focused-breakdown';
+export { indexCheckoutFocusedBreakdown } from './features/checkout-index-focused-breakdown';
