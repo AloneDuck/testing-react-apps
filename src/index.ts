@@ -169,3 +169,4 @@ export { estimateReturnsFaultTolerantBreakdown } from './features/returns-estima
 export { partitionForecastingFaultTolerantBreakdown } from './features/forecasting-partition-fault-tolerant-breakdown';
 export { aggregateAccessibilityFocusedBreakdown } from './features/accessibility-aggregate-focused-breakdown';
 export { AccessibilityAggregateFocusedBreakdownCard } from './components/AccessibilityAggregateFocusedBreakdownCard';
+export { classifyCatalogFocusedBreakdown } from './features/catalog-classify-focused-breakdown';
