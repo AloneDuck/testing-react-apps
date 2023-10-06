@@ -171,3 +171,4 @@ export { aggregateAccessibilityFocusedBreakdown } from './features/accessibility
 export { AccessibilityAggregateFocusedBreakdownCard } from './components/AccessibilityAggregateFocusedBreakdownCard';
 export { classifyCatalogFocusedBreakdown } from './features/catalog-classify-focused-breakdown';
 export { indexCheckoutFocusedBreakdown } from './features/checkout-index-focused-breakdown';
+export { resolveCustomersFocusedBreakdown } from './features/customers-resolve-focused-breakdown';
