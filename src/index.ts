@@ -172,3 +172,4 @@ export { AccessibilityAggregateFocusedBreakdownCard } from './components/Accessi
 export { classifyCatalogFocusedBreakdown } from './features/catalog-classify-focused-breakdown';
 export { indexCheckoutFocusedBreakdown } from './features/checkout-index-focused-breakdown';
 export { resolveCustomersFocusedBreakdown } from './features/customers-resolve-focused-breakdown';
+export { classifyPricingFocusedBreakdown } from './features/pricing-classify-focused-breakdown';
