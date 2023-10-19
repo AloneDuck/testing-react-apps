@@ -173,3 +173,4 @@ export { classifyCatalogFocusedBreakdown } from './features/catalog-classify-foc
 export { indexCheckoutFocusedBreakdown } from './features/checkout-index-focused-breakdown';
 export { resolveCustomersFocusedBreakdown } from './features/customers-resolve-focused-breakdown';
 export { classifyPricingFocusedBreakdown } from './features/pricing-classify-focused-breakdown';
+export { measureProductsFocusedBreakdown } from './features/products-measure-focused-breakdown';
