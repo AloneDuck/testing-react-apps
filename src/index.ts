@@ -176,3 +176,4 @@ export { classifyPricingFocusedBreakdown } from './features/pricing-classify-foc
 export { measureProductsFocusedBreakdown } from './features/products-measure-focused-breakdown';
 export { scheduleReportsFocusedBreakdown } from './features/reports-schedule-focused-breakdown';
 export { deriveRoutingFocusedBreakdown } from './features/routing-derive-focused-breakdown';
+export { summarizeSessionsFocusedBreakdown } from './features/sessions-summarize-focused-breakdown';
