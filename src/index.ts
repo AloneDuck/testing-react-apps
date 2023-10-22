@@ -175,3 +175,4 @@ export { resolveCustomersFocusedBreakdown } from './features/customers-resolve-f
 export { classifyPricingFocusedBreakdown } from './features/pricing-classify-focused-breakdown';
 export { measureProductsFocusedBreakdown } from './features/products-measure-focused-breakdown';
 export { scheduleReportsFocusedBreakdown } from './features/reports-schedule-focused-breakdown';
+export { deriveRoutingFocusedBreakdown } from './features/routing-derive-focused-breakdown';
