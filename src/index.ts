@@ -177,3 +177,4 @@ export { measureProductsFocusedBreakdown } from './features/products-measure-foc
 export { scheduleReportsFocusedBreakdown } from './features/reports-schedule-focused-breakdown';
 export { deriveRoutingFocusedBreakdown } from './features/routing-derive-focused-breakdown';
 export { summarizeSessionsFocusedBreakdown } from './features/sessions-summarize-focused-breakdown';
+export { filterSettingsFocusedBreakdown } from './features/settings-filter-focused-breakdown';
