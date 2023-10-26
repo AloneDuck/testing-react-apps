@@ -178,3 +178,5 @@ export { scheduleReportsFocusedBreakdown } from './features/reports-schedule-foc
 export { deriveRoutingFocusedBreakdown } from './features/routing-derive-focused-breakdown';
 export { summarizeSessionsFocusedBreakdown } from './features/sessions-summarize-focused-breakdown';
 export { filterSettingsFocusedBreakdown } from './features/settings-filter-focused-breakdown';
+export { resolveTablesFocusedBreakdown } from './features/tables-resolve-focused-breakdown';
+export { TablesResolveFocusedBreakdownCard } from './components/TablesResolveFocusedBreakdownCard';
