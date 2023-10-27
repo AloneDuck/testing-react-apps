@@ -181,3 +181,4 @@ export { filterSettingsFocusedBreakdown } from './features/settings-filter-focus
 export { resolveTablesFocusedBreakdown } from './features/tables-resolve-focused-breakdown';
 export { TablesResolveFocusedBreakdownCard } from './components/TablesResolveFocusedBreakdownCard';
 export { compareTeamsFocusedBreakdown } from './features/teams-compare-focused-breakdown';
+export { measureTelemetryFocusedBreakdown } from './features/telemetry-measure-focused-breakdown';
