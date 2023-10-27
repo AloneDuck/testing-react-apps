@@ -182,3 +182,4 @@ export { resolveTablesFocusedBreakdown } from './features/tables-resolve-focused
 export { TablesResolveFocusedBreakdownCard } from './components/TablesResolveFocusedBreakdownCard';
 export { compareTeamsFocusedBreakdown } from './features/teams-compare-focused-breakdown';
 export { measureTelemetryFocusedBreakdown } from './features/telemetry-measure-focused-breakdown';
+export { estimateWorkflowsFocusedBreakdown } from './features/workflows-estimate-focused-breakdown';
