@@ -180,3 +180,4 @@ export { summarizeSessionsFocusedBreakdown } from './features/sessions-summarize
 export { filterSettingsFocusedBreakdown } from './features/settings-filter-focused-breakdown';
 export { resolveTablesFocusedBreakdown } from './features/tables-resolve-focused-breakdown';
 export { TablesResolveFocusedBreakdownCard } from './components/TablesResolveFocusedBreakdownCard';
+export { compareTeamsFocusedBreakdown } from './features/teams-compare-focused-breakdown';
