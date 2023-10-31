@@ -183,3 +183,4 @@ export { TablesResolveFocusedBreakdownCard } from './components/TablesResolveFoc
 export { compareTeamsFocusedBreakdown } from './features/teams-compare-focused-breakdown';
 export { measureTelemetryFocusedBreakdown } from './features/telemetry-measure-focused-breakdown';
 export { estimateWorkflowsFocusedBreakdown } from './features/workflows-estimate-focused-breakdown';
+export { rankReturnsFocusedBreakdown } from './features/returns-rank-focused-breakdown';
