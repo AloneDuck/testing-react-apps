@@ -184,3 +184,4 @@ export { compareTeamsFocusedBreakdown } from './features/teams-compare-focused-b
 export { measureTelemetryFocusedBreakdown } from './features/telemetry-measure-focused-breakdown';
 export { estimateWorkflowsFocusedBreakdown } from './features/workflows-estimate-focused-breakdown';
 export { rankReturnsFocusedBreakdown } from './features/returns-rank-focused-breakdown';
+export { classifyForecastingFocusedBreakdown } from './features/forecasting-classify-focused-breakdown';
