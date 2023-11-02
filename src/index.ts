@@ -185,3 +185,4 @@ export { measureTelemetryFocusedBreakdown } from './features/telemetry-measure-f
 export { estimateWorkflowsFocusedBreakdown } from './features/workflows-estimate-focused-breakdown';
 export { rankReturnsFocusedBreakdown } from './features/returns-rank-focused-breakdown';
 export { classifyForecastingFocusedBreakdown } from './features/forecasting-classify-focused-breakdown';
+export { indexAccessibilityIncrementalBreakdown } from './features/accessibility-index-incremental-breakdown';
