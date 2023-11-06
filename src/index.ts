@@ -187,3 +187,4 @@ export { rankReturnsFocusedBreakdown } from './features/returns-rank-focused-bre
 export { classifyForecastingFocusedBreakdown } from './features/forecasting-classify-focused-breakdown';
 export { indexAccessibilityIncrementalBreakdown } from './features/accessibility-index-incremental-breakdown';
 export { selectCheckoutIncrementalBreakdown } from './features/checkout-select-incremental-breakdown';
+export { filterCustomersIncrementalBreakdown } from './features/customers-filter-incremental-breakdown';
