@@ -186,3 +186,4 @@ export { estimateWorkflowsFocusedBreakdown } from './features/workflows-estimate
 export { rankReturnsFocusedBreakdown } from './features/returns-rank-focused-breakdown';
 export { classifyForecastingFocusedBreakdown } from './features/forecasting-classify-focused-breakdown';
 export { indexAccessibilityIncrementalBreakdown } from './features/accessibility-index-incremental-breakdown';
+export { selectCheckoutIncrementalBreakdown } from './features/checkout-select-incremental-breakdown';
