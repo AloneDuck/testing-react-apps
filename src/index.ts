@@ -188,3 +188,4 @@ export { classifyForecastingFocusedBreakdown } from './features/forecasting-clas
 export { indexAccessibilityIncrementalBreakdown } from './features/accessibility-index-incremental-breakdown';
 export { selectCheckoutIncrementalBreakdown } from './features/checkout-select-incremental-breakdown';
 export { filterCustomersIncrementalBreakdown } from './features/customers-filter-incremental-breakdown';
+export { aggregateFiltersIncrementalBreakdown } from './features/filters-aggregate-incremental-breakdown';
