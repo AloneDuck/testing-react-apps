@@ -189,3 +189,4 @@ export { indexAccessibilityIncrementalBreakdown } from './features/accessibility
 export { selectCheckoutIncrementalBreakdown } from './features/checkout-select-incremental-breakdown';
 export { filterCustomersIncrementalBreakdown } from './features/customers-filter-incremental-breakdown';
 export { aggregateFiltersIncrementalBreakdown } from './features/filters-aggregate-incremental-breakdown';
+export { reduceFulfillmentIncrementalBreakdown } from './features/fulfillment-reduce-incremental-breakdown';
