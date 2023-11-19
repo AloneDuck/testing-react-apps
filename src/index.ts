@@ -190,3 +190,4 @@ export { selectCheckoutIncrementalBreakdown } from './features/checkout-select-i
 export { filterCustomersIncrementalBreakdown } from './features/customers-filter-incremental-breakdown';
 export { aggregateFiltersIncrementalBreakdown } from './features/filters-aggregate-incremental-breakdown';
 export { reduceFulfillmentIncrementalBreakdown } from './features/fulfillment-reduce-incremental-breakdown';
+export { scheduleNavigationIncrementalBreakdown } from './features/navigation-schedule-incremental-breakdown';
