@@ -192,3 +192,4 @@ export { aggregateFiltersIncrementalBreakdown } from './features/filters-aggrega
 export { reduceFulfillmentIncrementalBreakdown } from './features/fulfillment-reduce-incremental-breakdown';
 export { scheduleNavigationIncrementalBreakdown } from './features/navigation-schedule-incremental-breakdown';
 export { deriveOrdersIncrementalBreakdown } from './features/orders-derive-incremental-breakdown';
+export { groupSessionsIncrementalBreakdown } from './features/sessions-group-incremental-breakdown';
