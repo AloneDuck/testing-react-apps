@@ -193,3 +193,5 @@ export { reduceFulfillmentIncrementalBreakdown } from './features/fulfillment-re
 export { scheduleNavigationIncrementalBreakdown } from './features/navigation-schedule-incremental-breakdown';
 export { deriveOrdersIncrementalBreakdown } from './features/orders-derive-incremental-breakdown';
 export { groupSessionsIncrementalBreakdown } from './features/sessions-group-incremental-breakdown';
+export { resolveSettingsIncrementalBreakdown } from './features/settings-resolve-incremental-breakdown';
+export { SettingsResolveIncrementalBreakdownCard } from './components/SettingsResolveIncrementalBreakdownCard';
