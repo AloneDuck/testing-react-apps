@@ -195,3 +195,4 @@ export { deriveOrdersIncrementalBreakdown } from './features/orders-derive-incre
 export { groupSessionsIncrementalBreakdown } from './features/sessions-group-incremental-breakdown';
 export { resolveSettingsIncrementalBreakdown } from './features/settings-resolve-incremental-breakdown';
 export { SettingsResolveIncrementalBreakdownCard } from './components/SettingsResolveIncrementalBreakdownCard';
+export { compareShipmentsIncrementalBreakdown } from './features/shipments-compare-incremental-breakdown';
