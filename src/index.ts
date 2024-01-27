@@ -197,3 +197,4 @@ export { resolveSettingsIncrementalBreakdown } from './features/settings-resolve
 export { SettingsResolveIncrementalBreakdownCard } from './components/SettingsResolveIncrementalBreakdownCard';
 export { compareShipmentsIncrementalBreakdown } from './features/shipments-compare-incremental-breakdown';
 export { measureStateIncrementalBreakdown } from './features/state-measure-incremental-breakdown';
+export { selectSuppliersIncrementalBreakdown } from './features/suppliers-select-incremental-breakdown';
