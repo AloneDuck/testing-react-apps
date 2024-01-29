@@ -200,3 +200,4 @@ export { measureStateIncrementalBreakdown } from './features/state-measure-incre
 export { selectSuppliersIncrementalBreakdown } from './features/suppliers-select-incremental-breakdown';
 export { aggregateTelemetryIncrementalBreakdown } from './features/telemetry-aggregate-incremental-breakdown';
 export { TelemetryAggregateIncrementalBreakdownCard } from './components/TelemetryAggregateIncrementalBreakdownCard';
+export { formatValidationIncrementalBreakdown } from './features/validation-format-incremental-breakdown';
