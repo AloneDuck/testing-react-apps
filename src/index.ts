@@ -198,3 +198,5 @@ export { SettingsResolveIncrementalBreakdownCard } from './components/SettingsRe
 export { compareShipmentsIncrementalBreakdown } from './features/shipments-compare-incremental-breakdown';
 export { measureStateIncrementalBreakdown } from './features/state-measure-incremental-breakdown';
 export { selectSuppliersIncrementalBreakdown } from './features/suppliers-select-incremental-breakdown';
+export { aggregateTelemetryIncrementalBreakdown } from './features/telemetry-aggregate-incremental-breakdown';
+export { TelemetryAggregateIncrementalBreakdownCard } from './components/TelemetryAggregateIncrementalBreakdownCard';
