@@ -201,3 +201,4 @@ export { selectSuppliersIncrementalBreakdown } from './features/suppliers-select
 export { aggregateTelemetryIncrementalBreakdown } from './features/telemetry-aggregate-incremental-breakdown';
 export { TelemetryAggregateIncrementalBreakdownCard } from './components/TelemetryAggregateIncrementalBreakdownCard';
 export { formatValidationIncrementalBreakdown } from './features/validation-format-incremental-breakdown';
+export { classifyWorkspaceIncrementalBreakdown } from './features/workspace-classify-incremental-breakdown';
