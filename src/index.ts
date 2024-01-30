@@ -202,3 +202,4 @@ export { aggregateTelemetryIncrementalBreakdown } from './features/telemetry-agg
 export { TelemetryAggregateIncrementalBreakdownCard } from './components/TelemetryAggregateIncrementalBreakdownCard';
 export { formatValidationIncrementalBreakdown } from './features/validation-format-incremental-breakdown';
 export { classifyWorkspaceIncrementalBreakdown } from './features/workspace-classify-incremental-breakdown';
+export { indexNotificationsIncrementalBreakdown } from './features/notifications-index-incremental-breakdown';
