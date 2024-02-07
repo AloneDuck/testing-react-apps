@@ -204,3 +204,4 @@ export { formatValidationIncrementalBreakdown } from './features/validation-form
 export { classifyWorkspaceIncrementalBreakdown } from './features/workspace-classify-incremental-breakdown';
 export { indexNotificationsIncrementalBreakdown } from './features/notifications-index-incremental-breakdown';
 export { normalizeForecastingIncrementalBreakdown } from './features/forecasting-normalize-incremental-breakdown';
+export { classifyDeliveryKeyboardBreakdown } from './features/delivery-classify-keyboard-breakdown';
