@@ -205,3 +205,5 @@ export { classifyWorkspaceIncrementalBreakdown } from './features/workspace-clas
 export { indexNotificationsIncrementalBreakdown } from './features/notifications-index-incremental-breakdown';
 export { normalizeForecastingIncrementalBreakdown } from './features/forecasting-normalize-incremental-breakdown';
 export { classifyDeliveryKeyboardBreakdown } from './features/delivery-classify-keyboard-breakdown';
+export { partitionInventoryKeyboardBreakdown } from './features/inventory-partition-keyboard-breakdown';
+export { InventoryPartitionKeyboardBreakdownCard } from './components/InventoryPartitionKeyboardBreakdownCard';
