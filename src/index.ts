@@ -207,3 +207,4 @@ export { normalizeForecastingIncrementalBreakdown } from './features/forecasting
 export { classifyDeliveryKeyboardBreakdown } from './features/delivery-classify-keyboard-breakdown';
 export { partitionInventoryKeyboardBreakdown } from './features/inventory-partition-keyboard-breakdown';
 export { InventoryPartitionKeyboardBreakdownCard } from './components/InventoryPartitionKeyboardBreakdownCard';
+export { summarizeLayoutKeyboardBreakdown } from './features/layout-summarize-keyboard-breakdown';
